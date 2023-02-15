@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Front End Developer
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: H Srinivas Bharadwaj](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/srinivasbharadwajh-8/))]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/srinivasbharadwajh-8/))
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
