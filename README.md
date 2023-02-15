@@ -2,8 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Front End Developer
 
-[![Linkedin: H Srinivas Bharadwaj](https://img.shields.io/badge/-Bharadwaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/srinivasbharadwajh-8/))]([(https://www.linkedin.com/in/srinivasbharadwajh-8/)](https://www.linkedin.com/in/srinivasbharadwajh-8/))
-<!-- [![GitHub H Srinivas Bharadwaj](https://github.com/Thaiane) -->
+
+[![GitHub H Srinivas Bharadwaj](https://github.com/srinivasbharadwajHullur)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
