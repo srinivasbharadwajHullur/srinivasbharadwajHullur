@@ -11,7 +11,7 @@
 const bharadwaj = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Express, Node]
+  tools: [React, Tailwind CSS]
 }
 ```
 
